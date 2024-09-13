@@ -18,7 +18,7 @@ First of all, this excel was made in the french version of ofice excel, and the 
 
 NOTE :  - some times it will not get the results correct, some cell may swap the numbres, and some times its just wont work good.
         - the other 2 python files are to verify or generate the puzzel
-
+        - THE MAX OF EMPTY SPOTS ARE 50 for now
 
 
 best of luck.
