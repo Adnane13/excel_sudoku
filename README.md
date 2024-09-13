@@ -22,11 +22,12 @@ First of all, this excel was made in the french version of ofice excel, and the 
 6 - repete for 20 times, ( there is no resone why 20 steps, beside to make sure its will give the best results)
 
 
-NOTE :  - some times it will not get the results correct, some cell may swap the numbres, and some times its just wont work good.
+NOTE :  
+  - some times it will not get the results correct, some cell may swap the numbres, and some times its just wont work good.
 
-        - the other 2 python files are to verify or generate the puzzel
-        
-        - THE MAX OF EMPTY SPOTS ARE 50 for now
+  - the other 2 python files are to verify or generate the puzzel
+
+  - THE MAX OF EMPTY SPOTS ARE 50 for now
         
 
 
